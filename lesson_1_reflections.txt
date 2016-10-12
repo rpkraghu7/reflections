@@ -1,0 +1,39 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+
+  It was really very helpful because we can see the diff cleanly and clearly on the two files
+that we are comparing using diff -u function in the git bash command prompt so it was really
+helpful and super useful.
+
+How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+  When I have access to my older files, I can probably check for the previous versions of my files
+  and have access to them with ease (like opening them and editing them) this option helps a lot really a lot
+  trust me. I can have record for my work.
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google Docs does?
+
+    Actually I would suggest to create a commit manually than automating it because when you have commit getting created automatically there will
+    be major issues like errors getting added to the files automatically so I would create commit manually and pros are that you can have
+    reference to the files that you have different versions and can go to that particular files when ever you want by just using that commit
+    and I don't say that automating commit is completely bad but according to me it's bad practice.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+
+  because when we can save multiple files and access the changes made to them we can actually track the changes made to them and when we are building
+  a website we would have many files we need to keep track of so it will be helpful to use multiple file access system.
+
+How can you use the commands git log and git diff to view the history of files?
+
+  git log command gives you the history of the commits that are made to the current repository and git diff gives you the difference in the
+  changes made like number of lines added and number of lines deleted from your two compared files in the repository
+
+How might using version control make you more confident to make changes that could break something?
+
+  using version control is really helpful to know the error or bug we create so that we can rectify it is really helpful to develop a clean project
+  and give it to the client.
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+    I'm looking forward to work and learn more in git.
